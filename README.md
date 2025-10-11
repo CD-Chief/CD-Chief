@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cd-chief" alt="cd-chief" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://cd-chief.github.io/chief.github.io/](https://cd-chief.github.io/chief.github.io/)
-
 - 📫 How to reach me : **chief.d.osei@gmail.com**
 
 - ⚡ Fun fact : **I speak 3 languages**
