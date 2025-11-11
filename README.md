@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! My name is Chief-Daniel Osei 👋</h1>
-<h3 align="center">Dedicated and aspiring software engineering student at Newcastle University </h3>
+<h3 align="center">Dedicated software engineering student at Newcastle University </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cd-chief" alt="cd-chief" /></a> </p>
 
