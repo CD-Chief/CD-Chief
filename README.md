@@ -9,6 +9,12 @@
   
 - PS: A lot of my contributions are hidden behind my uni organisation!
 
+Check out my portfolio!
+
+<p align="center">
+  <a href="https://chiefosei.dev" target="_blank">🌐 Portfolio: chiefosei.dev</a>
+</p>
+
 ## 💻 Technology Arsenal
 
 ### Frontend
