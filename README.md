@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! My name is Chief-Daniel Osei 👋</h1>
+<h1 align="center">Welcome! I'm Chief-Daniel Osei 👋</h1>
 <h3 align="center">Dedicated software engineering student at Newcastle University </h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=CD-Chief&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C" alt="Trophies"/>
