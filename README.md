@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Chief 😁</h1>
-<h3 align="center"> I'm in my final year of studying computer science and love bringing ideas to life!</h3>
+# Hi there, I'm Chief 😁
+### I'm in my final year of studying computer science and love bringing ideas to life!</h3>
 
 SInce you're already here why not connect on <a href="https://www.linkedin.com/in/chief-daniel/" target="_blank"> Linkedin</a> or take a look at my <a href="https://chiefosei.dev" target="_blank"> Portfolio</a> 👀
 
